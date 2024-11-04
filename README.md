@@ -5,3 +5,7 @@
 * [Gerenciamento de um Projeto Digital](src/gerenciamento-de-um-projeto-digital)
 
 * [Gerenciamento Profissional de Cores](src/gerenciamento-profissional-de-cores.md)
+
+* [Planejamento Digital](/src/planejamento-digital.md)
+
+* [Perfil ICC](/src/perfil-icc.md)
