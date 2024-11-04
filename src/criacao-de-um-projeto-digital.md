@@ -24,7 +24,7 @@ Todo projeto digital é dividido em cinco etapas principais:
 4. Pós-produção
 5. Finalização, prova de cor e entrega 
 
-[👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#-tópicos)
 
 ## 🎨 Pré-produção
 
@@ -41,7 +41,7 @@ Todo projeto digital é dividido em cinco etapas principais:
 * Seleção de recursos necessários
 * Estabelecimento de prazos e cronogramas
 
-[👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#-tópicos)
 
 ## ⚙️ Produção
 
@@ -56,7 +56,7 @@ Todo projeto digital é dividido em cinco etapas principais:
 * Garantia de qualidade em cada etapa
 * Preparação para a fase de captação
 
-[👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#-tópicos)
 
 ## 💻 Input Digital
 
@@ -86,7 +86,7 @@ Todo projeto digital é dividido em cinco etapas principais:
 * Versatilidade no resultado final
 * Maior flexibilidade criativa
 
-[👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#-tópicos)
 
 ## 🛠️ Pós-produção
 
@@ -102,7 +102,7 @@ Todo projeto digital é dividido em cinco etapas principais:
 * Equilíbrio visual
 * Consistência técnica
 
-[👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#-tópicos)
 
 ## 🎯 Entrega
 * Diferentes formatos possíveis:
@@ -146,7 +146,7 @@ A prova de cor é uma etapa crítica no processo de finalização que garante a 
 
 [Conteúdo posterior mantido igual...]
 
-[👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#-tópicos)
 
 ## ✅ Melhores Práticas
 
@@ -170,7 +170,7 @@ Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
 
-[👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#-tópicos)
 
 ---
 
