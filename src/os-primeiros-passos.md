@@ -61,7 +61,7 @@ O Adobe Creative Cloud oferece diferentes planos para atender às necessidades d
 
 **Lembre-se:** Assinar o Adobe Creative Cloud oferece uma série de benefícios para profissionais de design, fotógrafos e criativos. Escolha o plano que melhor atende às suas necessidades e aproveite ao máximo as ferramentas e recursos que a Adobe disponibiliza. 
 
-[👆 TÓPICOS](#-tópicos)
+[👆 TÓPICOS](#tópicos)
 
 ## Linguagem do Photoshop 🌎
 
@@ -69,7 +69,6 @@ O Adobe Creative Cloud oferece diferentes planos para atender às necessidades d
 * **Comunicação Universal:** Usar inglês facilita a comunicação com outros profissionais e a compreensão de tutoriais e materiais online.
 * **Linguagem do Software:** Você pode ajustar a linguagem do software dentro do Photoshop CC, mas a interface e atalhos serão sempre em inglês.
 
-[👆 TÓPICOS](#-tópicos)
 
 ## Atalhos do Photoshop ⌨️
 
@@ -125,7 +124,7 @@ O Adobe Creative Cloud oferece diferentes planos para atender às necessidades d
 * **Mesclar Visíveis (Merge Visible):** 🍰👀 `Cmd + Shift + E` (Mac) / `Ctrl + Shift + E` (Windows)
 * **Visibilidade da Camada (Layer Visibility):** 👀 Clique no ícone do olho na paleta Layers.
 
-[👆 TÓPICOS](#-tópicos)
+[👆 TÓPICOS](#tópicos)
 
 ## Color Picker 🎨
 
@@ -133,7 +132,7 @@ O Adobe Creative Cloud oferece diferentes planos para atender às necessidades d
 * **Modo Roda:** O modo "roda" oferece uma visualização mais rápida e precisa de cores primárias e secundárias, além de ser mais intuitivo para a escolha de cores. 
 * **Modo Fita:**  O modo "fita" permite visualizar a saturação, a luminosidade e a matiz da cor, mas a visualização pode ser menos harmoniosa.
 
-[👆 TÓPICOS](#-tópicos)
+
 
 ## Interpolação de Imagens 🖼️
 
@@ -141,8 +140,6 @@ O Adobe Creative Cloud oferece diferentes planos para atender às necessidades d
 * **Suavizar Gradientes:** O método "Bicubic Smoother" garante gradientes mais suaves e é ideal para ampliar imagens. 
 * **Bilinear:**  Este método suaviza as arestas duras, mas a qualidade final pode ser menor que o "Bicubic Sharper".
 * **Bicubic Automatic:** O Photoshop decide automaticamente qual método de interpolação usar, mas isso pode consumir mais desempenho.
-
-[👆 TÓPICOS](#-tópicos)
 
 ## Workspace 💻
 
@@ -153,7 +150,7 @@ O Adobe Creative Cloud oferece diferentes planos para atender às necessidades d
 * **Auto Collapse**: Essa opção fecha automaticamente os paineis do Photoshop que não estão sendo utilizados.
 **Multimonitores**: Se você trabalha com vários monitores, o Workspace permite que você arraste os documentos e ferramentas para os outros monitores, otimizando seu espaço de trabalho.
 
-[👆 TÓPICOS](#-tópicos)
+[👆 TÓPICOS](#tópicos)
 
 ## Interface do Photoshop 💻
 
@@ -162,14 +159,12 @@ O Adobe Creative Cloud oferece diferentes planos para atender às necessidades d
 * **Personalização:** Use a opção "Custom" para escolher a cor de fundo da sua interface.
 * **Tamanho da fonte:** Defina o tamanho da fonte dos menus e ferramentas para facilitar a leitura.
 
-[👆 TÓPICOS](#-tópicos)
 
 ##  Beep de Conclusão 🔔
 
 * **Beep:**  Habilitar o "beep" é uma forma de saber quando uma tarefa no Photoshop foi concluída. 
 * **Desabilitando o Beep:** Desabilite essa opção se você achar o beep irritante ou se estiver trabalhando em um ambiente silencioso.
 
-[👆 TÓPICOS](#-tópicos)
 
 ## Opções do Photoshop ⚙️
 
@@ -180,7 +175,7 @@ O Adobe Creative Cloud oferece diferentes planos para atender às necessidades d
 * **Beep de Conclusão:** Habilitar o beep (som) é uma forma de saber quando uma tarefa no Photoshop foi concluída. 
 * **Desabilitando o Beep:** Desabilite essa opção se você achar o beep irritante ou se estiver trabalhando em um ambiente silencioso.
 
-[👆 TÓPICOS](#-tópicos)
+[👆 TÓPICOS](#tópicos)
 
 ## 🛠️ Aba Ferramentas (Tools)
 
@@ -203,7 +198,7 @@ A aba "Tools" nas Preferências do Photoshop permite customizar o comportamento 
 * **Exemplo:** Pressione "M" para a ferramenta Marquee retangular, e "Shift + M" para a ferramenta Marquee elíptica.
 * Acelera a seleção de ferramentas sem precisar recorrer ao painel de ferramentas.
 
-[👆 TÓPICOS](#-tópicos)
+[👆 TÓPICOS](#tópicos)
 
 ## 🖱️Aba Área de trabalho (Workspace)
 
@@ -250,7 +245,7 @@ Estas opções afetam a interação com a área de trabalho do Photoshop.
 * Define a posição onde os valores de transformação (tamanho, posição, etc.) são exibidos na tela.
 * A preferência pessoal dita a melhor opção.
 
-[👆 TÓPICOS](#-tópicos)
+[👆 TÓPICOS](#tópicos)
 
 ## 💡Dicas Adicionais
 
