@@ -1,5 +1,7 @@
 # Tópicos
 
+* [Os Primeiros Passos](/src/os-primeiros-passos.md)
+
 * [Planejamento Digital](/src/planejamento-digital.md)
 
 * [Criação de um Projeto Digital](src/criacao-de-um-projeto-digital.md)
